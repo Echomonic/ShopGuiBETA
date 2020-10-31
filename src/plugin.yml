@@ -1,0 +1,10 @@
+name:
+main:
+version:
+author:
+
+commands:
+  shop:
+    description:
+      aliases:
+        - s
